@@ -1,3 +1,8 @@
+This file is copying from https://github.com/wanion/Monitor-AD-Groups
+
+
+
+
 # AD Group modification monitor
 This script monitors the specified groups in Active Directory, and sends a change summarises the changes for each group. No email is sent if there are no changes
 
